@@ -9,4 +9,5 @@ require (
 	github.com/jmoiron/sqlx v1.2.0
 	github.com/pkg/errors v0.8.1
 	go4.org v0.0.0-20191010144846-132d2879e1e9 // indirect
+	google.golang.org/appengine v1.6.5 // indirect
 )
